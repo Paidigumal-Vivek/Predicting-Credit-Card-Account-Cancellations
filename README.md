@@ -37,6 +37,23 @@ This project focuses on predicting credit card account cancellations using machi
 - Machine learning models were trained to predict the likelihood of account cancellations.
 - Actionable insights and recommendations were provided to enhance customer retention.
 
+## Visualisations
+![Employee Salary Distribution by Status(Left the Company -Yes/No)](https://github.com/Paidigumal-Vivek/Predicting-Credit-Card-Account-Cancellations/blob/main/visualisation%201.png)
+
+![Average Age by Customer Status](https://github.com/Paidigumal-Vivek/Predicting-Credit-Card-Account-Cancellations/blob/main/visualisation%202.png)
+
+![Relationship between Marital Status and Account Closure](https://github.com/Paidigumal-Vivek/Predicting-Credit-Card-Account-Cancellations/blob/main/visualisation%203.png)
+
+![Relationship between Education Level and Account Closure](https://github.com/Paidigumal-Vivek/Predicting-Credit-Card-Account-Cancellations/blob/main/visualisation%204.png)
+
+![Relationship between Credit Limit and Account Closure](https://github.com/Paidigumal-Vivek/Predicting-Credit-Card-Account-Cancellations/blob/main/visualisation%205.png)
+
+![ROC Curve - Logistic Regression](https://github.com/Paidigumal-Vivek/Predicting-Credit-Card-Account-Cancellations/blob/main/visualisation%206.png)
+
+![ROC Curve - Decision Tree](https://github.com/Paidigumal-Vivek/Predicting-Credit-Card-Account-Cancellations/blob/main/visualisation%207.png)
+
+![](https://github.com/Paidigumal-Vivek/Predicting-Credit-Card-Account-Cancellations/blob/main/visualisation%208.png)
+
 ## Future Enhancements
 - Integrating **deep learning models** for better accuracy.
 - Developing a **real-time monitoring dashboard** for account cancellations.
