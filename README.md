@@ -12,6 +12,7 @@ This project focuses on predicting credit card account cancellations using machi
 ## Dataset
 - The dataset includes fields such as **account balance, credit score, transaction history, customer demographics, and cancellation status**.
 - Missing values and outliers are handled in the preprocessing phase.
+- [Credit card dataset](https://gmubusinessanalytics.netlify.app/data/credit_card_df.rds)
 
 ## Methodology
 1. **Data Preprocessing**
